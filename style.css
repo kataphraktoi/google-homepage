@@ -1,0 +1,93 @@
+a {
+	color: black;
+	font-family: Arial;
+	font-size: 12px;
+	text-decoration: none;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0px 10px 0px 10px;
+}
+
+#logo img {
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	width: 250px;
+} 
+
+.barbuttons a {
+	margin: 5px;
+}
+
+.topbar {
+	margin-right:10px;
+	float: right;
+	margin-bottom: 10%;
+}
+
+#login button {
+	color: #fff;
+	background-color: #4285f4;
+	border: none;
+	height: 30px;
+	width: 60px;
+}
+
+#icon {
+	border-radius: 100%;
+}
+
+.centre {
+	clear: both;
+	margin-bottom: 17%;
+}
+
+
+.searchbar {
+	height: 130px;
+}
+
+.searchbar form #bar {
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #C0C0C0;
+	width: 50%;
+	display: block;
+	margin: auto;
+	margin-bottom: 15px;
+}
+
+.searchbar form .searchbuttons {
+	width: 16em;
+	margin: auto;
+}
+
+.searchbar form .searchbuttons input {
+	margin-left: 6px;
+	background-color: #E0E0E0;
+	border-style: solid;
+	border-color: #989898;
+	border-width: 1px;
+	text-align: center;
+}
+
+
+.footer {
+    background: #f2f2f2;
+    line-height: 40px;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.leftopt {
+	float: left;
+}
+
+.rightopt {
+	float: right;
+}
